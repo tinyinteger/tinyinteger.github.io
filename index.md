@@ -12,7 +12,7 @@ TedTalks Dashboard
 <br>
 <a href="pdf/tedtalks_dashboard.pdf" target="_blank"><img src="images/ds_tedtalks.PNG?raw=true"/></a>
 <br>
-Click <a href="excel/ds-tedtalks_dashboard.xlsx" download target="_blank">here</a> to access the dashboard.
+Click <a href="excel/ds-tedtalks_dashboard.xlsx" download>here</a> to access the dashboard.
 
 
 ---
