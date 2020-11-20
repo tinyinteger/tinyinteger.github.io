@@ -2,8 +2,8 @@
 
 ---
 
-### Data Science
-<b><u>// Data Science in Video Game industry</u></b>
+### // Data Science
+<b>Data Science in Video Game industry</b>
 <br>
 <a href="pdf/ds_videogame.pdf" target="_blank"><img src="images/ds_videogame.PNG?raw=true"/></a>
 
