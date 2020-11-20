@@ -8,9 +8,9 @@ Data Science in Video Game industry
 <a href="pdf/ds_videogame.pdf" target="_blank"><img src="images/ds_videogame.PNG?raw=true"/></a>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+TedTalks Dashboard
+<br>
+<a href="pdf/tedtalks_dashboard.pdf" target="_blank"><img src="images/ds_tedtalks.PNG?raw=true"/></a>
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
