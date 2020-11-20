@@ -13,9 +13,7 @@ TedTalks Dashboard
 <a href="pdf/tedtalks_dashboard.pdf" target="_blank"><img src="images/ds_tedtalks.PNG?raw=true"/></a>
 <br>
 Click <a href="excel/ds-tedtalks_dashboard.xlsx" target="_blank">here</a> to access the dashboard.
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
