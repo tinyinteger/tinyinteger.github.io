@@ -4,7 +4,7 @@
 
 ### Data Science in Video Game Industry 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/pdf/ds_videogame.pdf)
 <img src="images/ds_videogame.PNG?raw=true"/>
 
 ---
