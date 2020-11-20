@@ -4,7 +4,7 @@
 
 ### Data Science in Video Game Industry 
 
-(/pdf/ds_videogame.pdf <img src="images/ds_videogame.PNG?raw=true"/>)
+<img src="images/ds_videogame.PNG?raw=true"/ a href="https://github.com/tinyinteger/tinyinteger.github.io/blob/master/pdf/ds_videogame.pdf" /a>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
