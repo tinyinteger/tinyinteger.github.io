@@ -2,8 +2,8 @@
 
 ---
 
-### Data Science in Video Game Industry 
-
+### Data Science
+Data Science in Video Game industry
 <a href="pdf/ds_videogame.pdf" target="_blank"><img src="images/ds_videogame.PNG?raw=true"/></a>
 
 ---
